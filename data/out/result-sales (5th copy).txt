@@ -1,0 +1,7 @@
+Arquivo origem: sales (5th copy).txt
+------------------------------------------------------
+Quantidade de clientes: 2
+Quantidade de vendedores: 2
+Venda mais cara - ID: 10 | Valor: 1199.00
+Pior vendedor: Paulo
+------------------------------------------------------
